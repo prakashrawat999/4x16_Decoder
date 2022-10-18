@@ -1,4 +1,4 @@
-# 4x16_Decoder
+# 4x16_Decoder implement using 3x8_Decoder
 
 ## Abstract:
 The decoder is a combinational circuit with n input lines and 2n maximum output lines. Depending on the input combination, one of these outputs will be high when the decoder is enabled. Therefore, a particular code is detected by a decoder. In electronic circuits, it is used to convert instructions into CPU control signals. In logical circuits and data transfer, they are mainly used. 
@@ -21,6 +21,7 @@ To each 3 to 8 decoder, Out2, Out3 & Out4 are applied in parallel. Enable, E of 
 ![image](https://user-images.githubusercontent.com/87818153/194719052-c862376a-8ebc-4821-ba48-06316a25d469.png)
 
 ## References:
+```
 https://www.youtube.com/watch?v=iM4J YA1il0Y 
 https://www.tutorialspoint.com/digital_circuits/digital_circuits_decoders.htm 
 https://www.javatpoint.com/decoder-digital-electronics#:~:text=The%203%20to%20 8%20line,an%20enable%20input%20'E
@@ -29,5 +30,5 @@ https://www.elprocus.com/designing-4-to-16-decoder-using-3-to-8-decoder/
 https://www.youtube.com/watch?v=7rhQwNeEc4o
 https://www.elprocus.com/designing-4-to-16-decoder-using-3-to-8-decoder/#:~:text=4%20to%2016%20decoder%20circuit%20is%20obtained%20from%20two%203,3%20to%208%20decoder%20circuit.
 https://programmerbay.com/construct-3-to-8-decoder-with-truth-table-and-logic-gates/
-
+```
 
